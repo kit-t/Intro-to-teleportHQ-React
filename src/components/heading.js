@@ -24,7 +24,7 @@ const Heading = (props) => {
 }
 
 Heading.defaultProps = {
-  heading1: 'Heading',
+  heading1: 'Updated Heading',
   text: 'Let’s walk through this tutorial together to get you ready for building your next projects',
 }
 
